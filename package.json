@@ -1,13 +1,1 @@
-{
-  "name": "windsurf-agent-skills",
-  "version": "1.0.0",
-  "description": "A collection of skills for the Windsurf agent.",
-  "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/govind0229/windsurf-agent-skills"
-  },
-  "author": "govind0229",
-  "license": "MIT"
-}
+{}

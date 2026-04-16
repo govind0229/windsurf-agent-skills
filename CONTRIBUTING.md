@@ -1,10 +1,3 @@
-# Contributing to Windsurf Agent Skills
+# Contributing
 
-We welcome contributions to the Windsurf Agent Skills project! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them.
-4. Create a pull request explaining your changes.
-
-Thank you for your contributions!
+Please ensure your pull request is made against the main branch. Follow the coding standards and guidelines for contributions.
